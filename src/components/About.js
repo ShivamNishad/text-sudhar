@@ -36,7 +36,7 @@ export default function About(props) {
                     </h2>
                     <div id="collapseTwo" className="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                     <div className="accordion-body" style={myStyle}>
-                    Formatting: We have formatting options to help you make your text look its best. Choose from font size, font type, font color, text alignment, and more.<br/>
+                    Formatting: We have formatting options to help you make your text look its best. Choose from font size, font type, text alignment, and more.<br/>
                     TextSudhar is a free character counter tool that provides instant character count & word count statistics for a given text. TextSudhar reports the number of words and characters. Thus it is suitable for writing text with word/ character limit.
                     </div>
                     </div>
